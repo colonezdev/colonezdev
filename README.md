@@ -7,7 +7,7 @@ const dev = {
   formacao: ["Data Science @ FIAP", "Computer Science (2027)"],
   estudosAtuais: "JavaScript Avançado & Ecossistema Node.js"
 };
-
+Snippet de código
 graph LR
     A[Lógica & JS Puro] --> B[Manipulação de APIs]
     B --> C[Node.js / Express]

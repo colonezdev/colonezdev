@@ -66,4 +66,4 @@ Em breve adicionarei aqui alguns projetos focados em:
 
 📧 **colonez.dev@gmail.com**
 
-💼 **LinkedIn:** [linkedin.com/in/colonez](https://linkedin.com/in/colonez)
+💼 **[linkedin.com/in/colonez](https://linkedin.com/in/colonez)**

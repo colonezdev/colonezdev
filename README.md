@@ -5,7 +5,7 @@
 Sou desenvolvedor focado em **Back-End Development** e **Software Architecture**.
 
 🎓 Formado em **Data Science pela FIAP**  
-📚 Estudando **Computer Science na UNICESUMAR (2027)**
+📚 Estudando **Engenharia de Software na UNICESUMAR (2027)**
 
 **Atualmente estudando:**
 

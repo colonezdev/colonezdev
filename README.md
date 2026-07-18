@@ -1,8 +1,8 @@
 # Olá, eu sou o Angel! 👋 (`colonezdev`)
 
 ## 🚀 Sobre mim
-Sou desenvolvedor focado em **Back-End Development** e **Software Architecture**, atualmente estudando **Data Science @ FIAP** e **Computer Science (2027)**.  
-Meus estudos atuais estão voltados para **JavaScript Avançado** e o ecossistema **Node.js**.
+Sou desenvolvedor focado em **Back-End Development** e **Software Architecture**, atualmente formado em **Data Science na @ FIAP** e estudando **Computer Science @ UNICESUMAR**.  
+Meus estudos atuais estão voltados para **JavaScript | SQL | HTML5 & CSS3**
 
 ---
 

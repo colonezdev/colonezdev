@@ -7,7 +7,7 @@ const dev = {
   formacao: ["Data Science @ FIAP", "Computer Science (2027)"],
   estudosAtuais: "JavaScript Avançado & Ecossistema Node.js"
 };
-Snippet de código
+
 graph LR
     A[Lógica & JS Puro] --> B[Manipulação de APIs]
     B --> C[Node.js / Express]
@@ -16,3 +16,4 @@ graph LR
     style B fill:#bbf,stroke:#333,stroke-width:1px
     style C fill:#bbf,stroke:#333,stroke-width:1px
     style D fill:#bbf,stroke:#333,stroke-width:1px
+

@@ -75,6 +75,6 @@ graph LR
 
 📍 São Paulo - Brasil
 
-📧 **angel.sabonaro.colonez@gmail.com**
+📧 **colonez.dev@gmail.com**
 
-💼 **LinkedIn:** https://linkedin.com/in/SEU-USUARIO
+💼 **LinkedIn:** https://linkedin.com/in/colonez

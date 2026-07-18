@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Angel! 👋 (`colonezdev`)
 
-<!--
-**colonezdev/colonezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const dev = {
+  nome: "Angel",
+  foco: ["Back-End Development", "Software Architecture"],
+  formacao: ["Data Science @ FIAP", "Computer Science (2027)"],
+  estudosAtuais: "JavaScript Avançado & Ecossistema Node.js"
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+graph LR
+    A[Lógica & JS Puro] --> B[Manipulação de APIs]
+    B --> C[Node.js / Express]
+    C --> D[Arquitetura Back-End]
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333,stroke-width:1px
+    style C fill:#bbf,stroke:#333,stroke-width:1px
+    style D fill:#bbf,stroke:#333,stroke-width:1px

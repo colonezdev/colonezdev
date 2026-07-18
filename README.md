@@ -7,13 +7,13 @@ Sou desenvolvedor focado em **Back-End Development** e **Software Architecture**
 🎓 Formado em **Data Science pela FIAP**  
 📚 Estudando **Computer Science na UNICESUMAR (2027)**
 
-Atualmente meus estudos estão voltados para:
+**Atualmente estudando:**
 
-- JavaScript
+- JavaScript (ES6+)
 - Node.js
-- SQL
-- HTML5
-- CSS3
+- PostgreSQL
+- HTML5 & CSS3
+- Arquitetura Back-End
 
 ---
 
@@ -22,12 +22,16 @@ Atualmente meus estudos estão voltados para:
 ```javascript
 const dev = {
   nome: "Angel",
+  cargo: "Back-End Developer",
   foco: ["Back-End Development", "Software Architecture"],
+  linguagens: ["JavaScript", "SQL"],
+  tecnologias: ["Node.js", "Express", "PostgreSQL"],
   formacao: [
     "Data Science @ FIAP",
     "Computer Science (2027)"
   ],
-  estudosAtuais: "JavaScript Avançado & Ecossistema Node.js"
+  estudando: "Arquitetura Back-End",
+  objetivo: "Construir APIs escaláveis e de alta performance"
 };
 ```
 
@@ -36,14 +40,23 @@ const dev = {
 ## 🏅 Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projetos
+
+Em breve adicionarei aqui alguns projetos focados em:
+
+- 🔹 APIs REST com Node.js
+- 🔹 Sistemas CRUD com PostgreSQL
+- 🔹 Autenticação JWT
+- 🔹 Arquitetura Back-End
 
 ---
 
@@ -53,4 +66,4 @@ const dev = {
 
 📧 **colonez.dev@gmail.com**
 
-💼 **LinkedIn:** https://linkedin.com/in/colonez
+💼 **LinkedIn:** [linkedin.com/in/colonez](https://linkedin.com/in/colonez)

@@ -53,10 +53,10 @@ const dev = {
 
 Em breve adicionarei aqui alguns projetos focados em:
 
-- 🔹 APIs REST com Node.js
-- 🔹 Sistemas CRUD com PostgreSQL
-- 🔹 Autenticação JWT
-- 🔹 Arquitetura Back-End
+🔹 APIs REST com Node.js
+🔹 Sistemas CRUD com PostgreSQL
+🔹 Autenticação JWT
+🔹 Arquitetura Back-End
 
 ---
 

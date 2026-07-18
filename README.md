@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor focado em **Back-End Development** e **Software Architecture**.
+Sou desenvolvedor focado em **Full stack Development** e **Software Architecture**.
 
 🎓 Formado em **Data Science pela FIAP**  
 📚 Estudando **Engenharia de Software na UNICESUMAR (2027)**
@@ -22,7 +22,7 @@ Sou desenvolvedor focado em **Back-End Development** e **Software Architecture**
 ```javascript
 const dev = {
   nome: "Angel",
-  cargo: "Back-End Developer",
+  cargo: "Full stack Developer",
   foco: ["Back-End Development", "Software Architecture"],
   linguagens: ["JavaScript", "SQL"],
   tecnologias: ["Node.js", "Express", "PostgreSQL"],

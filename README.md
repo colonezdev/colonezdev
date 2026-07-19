@@ -4,8 +4,8 @@
 
 Sou desenvolvedor focado em **Full stack Development** e **Software Architecture**.
 
-🎓 Formado em **Data Science pela FIAP**  
-📚 Estudando **Engenharia de Software na UNICESUMAR (2027)**
+🎓 Formado em **Data Science FIAP**  
+📚 Estudando **Engenharia de Software UNICESUMAR (2027)**
 
 **Atualmente estudando:**
 
@@ -28,7 +28,7 @@ const dev = {
   tecnologias: ["Node.js", "Express", "PostgreSQL"],
   formacao: [
     "Data Science @ FIAP",
-    "Computer Science (2027)"
+    "Engenharia de Software UNICESUMAR (2027)"
   ],
   estudando: "Arquitetura Back-End",
   objetivo: "Construir APIs escaláveis e de alta performance"
